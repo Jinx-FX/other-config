@@ -37,6 +37,9 @@ book
 .gtk*
 .shell*
 .ICE*
+.xsession*
+.Xauthority
+.Xclients
 
 
 
