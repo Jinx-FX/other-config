@@ -9,6 +9,7 @@ alias e='exit'
 alias t='tmux'
 # 需要在有编译文件的地方执行
 alias sumake='sudo make clean install'
+
 # Path to your oh-my-zsh installation.
 export ZSH="/home/july/.oh-my-zsh"
 
@@ -108,7 +109,11 @@ export LANG=en_US.UTF-8
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
+# incr 自动补全插件
 # source ~/.oh-my-zsh/plugins/incr/incr*.zsh
-#
+
 #anaconda3
 export PATH="/home/july/anaconda3/bin:$PATH"
+
+#stop ranger frome loading both default and my config. set my config
+export RANGER_LOAD_DEFAULT_RC=False
