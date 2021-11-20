@@ -13,7 +13,12 @@ st
 dwm
 Github
 scripts
+book
 
+.bash_*
+.oh-my-zsh
+.zsh_history
+.zcompdump*
 .config
 .cache
 .p*
@@ -28,7 +33,10 @@ scripts
 .vscode-oss
 .thunderbird
 .w*
-
+.gitconfig
+.gtk*
+.shell*
+.ICE*
 
 
 
