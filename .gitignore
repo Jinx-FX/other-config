@@ -20,7 +20,14 @@ scripts
 .ssh
 .steam*
 .d*
-
+.f*
+.l*
+.i*
+.n*
+.m*
+.vscode-oss
+.thunderbird
+.w*
 
 
 
