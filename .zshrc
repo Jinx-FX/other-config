@@ -117,3 +117,6 @@ export PATH="/home/july/anaconda3/bin:$PATH"
 
 #stop ranger frome loading both default and my config. set my config
 export RANGER_LOAD_DEFAULT_RC=False
+
+# pyopengl
+export LD_PRELOAD=/usr/lib/libstdc++.so.6 pyopengl
