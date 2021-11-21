@@ -40,6 +40,6 @@ book
 .xsession*
 .Xauthority
 .Xclients
-
+.conda*
 
 
