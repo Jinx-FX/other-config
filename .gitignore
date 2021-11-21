@@ -21,7 +21,11 @@ book
 .zcompdump*
 .config
 .cache
-.p*
+.pki
+.pulse-cookie
+.purple
+.pylint.d
+.python_history
 .ssh
 .steam*
 .d*
