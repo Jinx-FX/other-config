@@ -17,6 +17,7 @@ book
 learn
 slock
 
+*.png
 .bash_*
 .oh-my-zsh
 .zsh_history
