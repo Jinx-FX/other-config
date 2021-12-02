@@ -1,6 +1,7 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
+# aliases
 alias c='clear'
 alias n='neofetch'
 alias r="ranger"
@@ -99,15 +100,6 @@ export LANG=en_US.UTF-8
 
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
-
-# Set personal aliases, overriding those provided by oh-my-zsh libs,
-# plugins, and themes. Aliases can be placed here, though oh-my-zsh
-# users are encouraged to define aliases within the ZSH_CUSTOM folder.
-# For a full list of active aliases, run `alias`.
-#
-# Example aliases
-# alias zshconfig="mate ~/.zshrc"
-# alias ohmyzsh="mate ~/.oh-my-zsh"
 
 # incr 自动补全插件
 # source ~/.oh-my-zsh/plugins/incr/incr*.zsh
