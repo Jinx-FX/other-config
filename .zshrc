@@ -10,8 +10,8 @@ plugins=(git zsh-syntax-highlighting)
 # incr 自动补全插件
 # source ~/.oh-my-zsh/plugins/incr/incr*.zsh
 
-source ~/.config/zsh/vi.zsh
 source ~/.config/zsh/env.zsh
 source ~/.config/zsh/aliases.zsh
 source $ZSH/oh-my-zsh.sh
+source ~/.config/zsh/vi.zsh
 
