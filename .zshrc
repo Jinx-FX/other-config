@@ -1,5 +1,7 @@
 # Remove older command from the history if a duplicate is to be added.
 setopt HIST_IGNORE_ALL_DUPS
+# history 时间格式
+HIST_STAMPS="yyyy-mm-dd"
 
 # Remove path separator from WORDCHARS.
 WORDCHARS=${WORDCHARS//[\/]}
