@@ -5,6 +5,7 @@
 # theme
 zmodule zimfw/gitster
 zmodule zimfw/prompt-pwd
+zmodule git-info
 
 # Sets sane Zsh built-in environment options.
 zmodule environment
@@ -20,11 +21,6 @@ zmodule utility
 #
 # Prompt
 #
-# Exposes to prompts how long the last command took to execute, used by asciiship.
-zmodule duration-info
-# Exposes git repository status information to prompts, used by asciiship.
-zmodule git-info
-
 # Additional completion definitions for Zsh.
 zmodule zsh-users/zsh-completions
 # Enables and configures smart and extensive tab completion.
