@@ -52,4 +52,11 @@ slock
 .Xclients
 .conda*
 .keras*
+.p10k.zsh
+.zshenv
+.*.zwc*
+wget-log
+.zhistory
+.zlogin
+
 
