@@ -5,9 +5,9 @@
 [[ $- != *i* ]] && return
 
 # for zsh
-if [ -t 1 ]; then
-	exec zsh
-fi
+# if [ -t 1 ]; then
+    # exec zsh
+# fi
 
 colors() {
 	local fgc bgc vals seq0
